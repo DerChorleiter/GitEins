@@ -1,1 +1,1 @@
-"Žnderung auf Main-Branch" 
+Das Merge-Problem ist gelöst
